@@ -1,2 +1,2 @@
 # Shell-Python
-Shell脚本以及一些Python脚本
+Bash shell and python script
