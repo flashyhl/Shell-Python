@@ -1,0 +1,10 @@
+/data/mysql/log/mysqlSlow.log {
+    daily
+    #dateext
+    copytruncate
+    #rotate 7
+    missingok
+    notifempty
+    create 0644 root root
+    olddir /data/backup/cutdaylog/interim
+}

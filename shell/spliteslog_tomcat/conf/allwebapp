@@ -1,0 +1,8 @@
+/application/applog/*.log {
+    daily
+    copytruncate
+    missingok
+    notifempty
+    create 0644 root root
+    olddir /application/backuplog/cutdaylog/interim
+}
