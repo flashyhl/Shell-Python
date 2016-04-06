@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf8 -*-
 
-#-------Author:yehailong--------#
+#-------Author:flashyhl--------#
 #-------Date:2015-05-24---------#
 
 
