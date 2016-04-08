@@ -22,7 +22,7 @@ spliteslog_mysql/conf/mysqlslow                         #配置文件<br>
 spliteslog_mysql/info/mailcontent<br>
 spliteslog_mysql/info/runlog.log<br>
 <br> 
-spliteslog_nginx/splitenginxlog.sh                      #切割nginx日志文件<br>   
+spliteslog_nginx/splitenginxlog.sh                      #切割nginx日志文件   
 spliteslog_nginx/conf/nginxlog                          #配置文件<br>
 spliteslog_nginx/info<br>
 spliteslog_nginx/info/runlog.log<br>
