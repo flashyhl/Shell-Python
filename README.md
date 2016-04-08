@@ -7,7 +7,7 @@ auto_refresh_aliyun_cdn/auto_cdn_refresh.py             #阿里云CDN自动刷�
 auto_refresh_aliyun_cdn/config/.aliyuncredentials.ini   #访问AccessKey文件<br>
 auto_refresh_aliyun_cdn/config/cdn_url                  #刷新预热列表<br>
 <br>
-backuplog_analysis/backuplog_analysis.py                #nginx、mysql慢日志、tomcat日志搜集以及分析错误信息并且发送报警邮件<br>  
+backuplog_analysis/backuplog_analysis.py                #nginx、mysql慢日志、tomcat日志搜集以及分析错误信息并且发送报警邮件 
 backuplog_analysis/config/collectlog.ini                #配置信息<br>
 <br>
 monitor_mysql_data/app_exception_log.py                 #监控app所产生的在mysql中的错误信息，导出为html文件并且发送报警邮件<br> 
