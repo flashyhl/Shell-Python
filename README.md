@@ -15,7 +15,7 @@ Bash shell and python script<br>
 <br> 
 * mysql_data_report/gitreport.py                          #导出每天之前一天的报表信息并且发送邮件<br> 
 * mysql_data_report/config/click.ini                      #配置文件<br>
-<br>            
+<br>
 2、Bash Shell:<br>
 * spliteslog_mysql/splitemysqllog.sh                      #切割mysql慢日志文件<br>
 * spliteslog_mysql/conf/mysqlslow                         #配置文件<br>
